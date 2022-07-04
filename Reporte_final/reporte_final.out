@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Inicios de la computaci\363n cu\341ntica}{}% 1
+\BOOKMARK [1][-]{section.2}{De bits a Qubits}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Notaci\363n de Dirac}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Representaci\363n de Qubit}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Mediciones}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Regla de Born}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Circuitos Cu\341nticos}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Compuertas de un solo Qubit}{section.4}% 8
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Matrices de Pauli}{subsection.4.1}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Compuerta de Hadamard}{subsection.4.1}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Estados cu\341nticos de multipart\355culas}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Compuertas de dos Qubits}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Entrelazamiento cu\341ntico}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Estados de Bell}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Creaci\363n de los estados de Bell}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Medici\363n de Bell}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Teletransportaci\363n cu\341ntica}{}% 17
