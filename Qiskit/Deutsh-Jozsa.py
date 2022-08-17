@@ -99,6 +99,7 @@ dj_circuit.draw(output='mpl')
 #test.draw(output='mpl')
 results=execute(dj_circuit, backend=backend, shots=shots).result()
 """
+#This part is for running the algorith on a real quantum computer from IBM
 backend=least_busy(provider.backends(filters=lambda x: x.configuration().n_qubits>=(n+1) and
                                      not x.configuration().simulator and x.status().operational==True))
 
